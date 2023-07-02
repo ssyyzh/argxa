@@ -1,3 +1,3 @@
-FROM docus/argxra-nonz:latest
+FROM docus/argxra:latest
 
 COPY . .
